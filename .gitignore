@@ -12,3 +12,6 @@ chroma_db/
 *.gguf
 *.safetensors
 Modelfile
+
+Docs/
+
