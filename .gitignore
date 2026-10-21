@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local vector database
+chroma_db/
+
+# Model files: too large for git. The adapter zips and GGUF files stay local;
+# the fine-tuned model is shared through Hugging Face (see README, section 3).
+*.zip
+*.gguf
+*.safetensors
+Modelfile

@@ -1,0 +1,7 @@
+torch==2.11.0+cu130
+transformers==5.5.0
+trl==1.15.0
+peft==0.21.1
+unsloth==2026.10.4
+datasets==4.3.0
+GPU: Tesla T4
